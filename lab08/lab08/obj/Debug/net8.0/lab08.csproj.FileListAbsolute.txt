@@ -1,0 +1,15 @@
+E:\anul3\design_soft_basic\lab08\lab08\bin\Debug\net8.0\lab08.exe
+E:\anul3\design_soft_basic\lab08\lab08\bin\Debug\net8.0\lab08.deps.json
+E:\anul3\design_soft_basic\lab08\lab08\bin\Debug\net8.0\lab08.runtimeconfig.json
+E:\anul3\design_soft_basic\lab08\lab08\bin\Debug\net8.0\lab08.dll
+E:\anul3\design_soft_basic\lab08\lab08\bin\Debug\net8.0\lab08.pdb
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.GeneratedMSBuildEditorConfig.editorconfig
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfoInputs.cache
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfo.cs
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.csproj.CoreCompileInputs.cache
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.sourcelink.json
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.dll
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\refint\lab08.dll
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.pdb
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\lab08.genruntimeconfig.cache
+E:\anul3\design_soft_basic\lab08\lab08\obj\Debug\net8.0\ref\lab08.dll
