@@ -78,6 +78,17 @@ static void F3()
         Console.WriteLine("Hello");
     }
 }
+
+static bool A()
+{
+    Console.WriteLine("A");
+    return true;
+}
+static bool B()
+{
+    Console.WriteLine("B");
+    return true;
+}
 ```
 
 - **F1 и F2** `B()` не вызывается, если `A()` вернёт `false`.
@@ -440,6 +451,7 @@ static int F()
 Выполняется `return 0`.
 `break` и `return 1` недостижимы.
 Функция **всегда возвращает 0**.
+
 
 
 
