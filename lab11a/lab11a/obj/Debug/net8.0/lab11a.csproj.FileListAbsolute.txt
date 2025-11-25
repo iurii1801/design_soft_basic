@@ -1,0 +1,15 @@
+E:\anul3\design_soft_basic\lab11a\lab11a\bin\Debug\net8.0\lab11a.exe
+E:\anul3\design_soft_basic\lab11a\lab11a\bin\Debug\net8.0\lab11a.deps.json
+E:\anul3\design_soft_basic\lab11a\lab11a\bin\Debug\net8.0\lab11a.runtimeconfig.json
+E:\anul3\design_soft_basic\lab11a\lab11a\bin\Debug\net8.0\lab11a.dll
+E:\anul3\design_soft_basic\lab11a\lab11a\bin\Debug\net8.0\lab11a.pdb
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.GeneratedMSBuildEditorConfig.editorconfig
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.AssemblyInfoInputs.cache
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.AssemblyInfo.cs
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.csproj.CoreCompileInputs.cache
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.sourcelink.json
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.dll
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\refint\lab11a.dll
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.pdb
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\lab11a.genruntimeconfig.cache
+E:\anul3\design_soft_basic\lab11a\lab11a\obj\Debug\net8.0\ref\lab11a.dll
