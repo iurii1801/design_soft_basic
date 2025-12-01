@@ -1,0 +1,15 @@
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.sourcelink.json
+E:\anul3\design_soft_basic\lab9\lab9\bin\Debug\net8.0\lab9.exe
+E:\anul3\design_soft_basic\lab9\lab9\bin\Debug\net8.0\lab9.deps.json
+E:\anul3\design_soft_basic\lab9\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+E:\anul3\design_soft_basic\lab9\lab9\bin\Debug\net8.0\lab9.dll
+E:\anul3\design_soft_basic\lab9\lab9\bin\Debug\net8.0\lab9.pdb
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.dll
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\refint\lab9.dll
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.pdb
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+E:\anul3\design_soft_basic\lab9\lab9\obj\Debug\net8.0\ref\lab9.dll

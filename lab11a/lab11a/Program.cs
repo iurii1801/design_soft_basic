@@ -1,74 +1,82 @@
 ﻿using System.Diagnostics;
 
-Colors color = Colors.red;
+Color color = Color.red;
 
 for (int i = 0; i < 6; i++)
 {
-    Actions act = GetAction(color);
-    DoAction(act);
+    Action action = GetAction(color);
+
+    DoAction(action);
+
     color = NextState(color);
+
     Console.WriteLine();
 }
 
-static Actions GetAction(Colors color)
+static Action GetAction(Color color)
 {
     switch (color)
     {
-        case Colors.green:
-            return Actions.go;
-        case Colors.red:
-            return Actions.stop;
-        case Colors.yellow:
-            return Actions.wait;
+        case Color.green:
+
+            return Action.go;
+
+        case Color.yellow:
+
+            return Action.wait;
+
+        case Color.red:
+
+            return Action.stop;
+
         default:
+
             Debug.Fail("Неизвестный цвет светофора!");
-            return Actions.stop;
+            return Action.stop;
     }
 }
 
-static void DoAction(Actions act)
+static void DoAction(Action action)
 {
-    switch (act)
+    switch (action)
     {
-        case Actions.go:
-            Console.WriteLine("Действие - ехать");
+        case Action.go:
+
+            Console.WriteLine("Ехать");
             break;
-        case Actions.stop:
-            Console.WriteLine("Действие - ждать");
+
+        case Action.stop:
+
+            Console.WriteLine("Стоять");
             break;
-        case Actions.wait:
-            Console.WriteLine("Действие - готовиться");
+
+        case Action.wait:
+
+            Console.WriteLine("Готовиться");
             break;
+
         default:
+
             Debug.Fail("Неизвестное действие!");
             break;
     }
 }
 
-static Colors NextState(Colors color)
+static Color NextState(Color color)
 {
-    switch (color)
-    {
-        case Colors.red:
-            return Colors.yellow;
-        case Colors.yellow:
-            return Colors.green;
-        case Colors.green:
-            return Colors.red;    
-        default:
-            Debug.Fail("Неизвестный цвет!");
-            return Colors.red;
-    }
+    int c = (int)color + 1;
+    c %= 3;
+    return (Color)c;
 }
 
-enum Colors
+enum Color
 {
-    red,
-    yellow,
-    green
+    red = 0,
+    yellow = 1,
+    green = 2
 }
 
-enum Actions
+enum Action
 {
     go,
     wait,

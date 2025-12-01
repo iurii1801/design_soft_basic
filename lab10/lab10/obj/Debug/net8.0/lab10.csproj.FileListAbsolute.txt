@@ -1,0 +1,15 @@
+E:\anul3\design_soft_basic\lab10\lab10\bin\Debug\net8.0\lab10.exe
+E:\anul3\design_soft_basic\lab10\lab10\bin\Debug\net8.0\lab10.deps.json
+E:\anul3\design_soft_basic\lab10\lab10\bin\Debug\net8.0\lab10.runtimeconfig.json
+E:\anul3\design_soft_basic\lab10\lab10\bin\Debug\net8.0\lab10.dll
+E:\anul3\design_soft_basic\lab10\lab10\bin\Debug\net8.0\lab10.pdb
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.AssemblyInfoInputs.cache
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.AssemblyInfo.cs
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.csproj.CoreCompileInputs.cache
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.sourcelink.json
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.dll
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\refint\lab10.dll
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.pdb
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\lab10.genruntimeconfig.cache
+E:\anul3\design_soft_basic\lab10\lab10\obj\Debug\net8.0\ref\lab10.dll
